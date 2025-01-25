@@ -1,3 +1,18 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+# Poetry virtual environment
+.venv/
+/venv/
+__pypackages__/
+.pytest_cache/
+*.egg-info/
+.eggs/
+dist/
+build/
+.mypy_cache/
+.venv/
+.eggs/
+*.egg-info/
+.cache/
+__pycache__/
